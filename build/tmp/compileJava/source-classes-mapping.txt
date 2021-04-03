@@ -1,0 +1,8 @@
+net/omnisync/install/json/Artifact.java
+ net.omnisync.install.json.Artifact
+ net.omnisync.install.json.Artifact$Adapter
+net/omnisync/install/Profile.java
+ net.omnisync.install.Profile
+net/omnisync/install/Installer.java
+ net.omnisync.install.Installer
+ net.omnisync.install.Installer$MachineProfile
